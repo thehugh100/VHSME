@@ -1,0 +1,70 @@
+﻿Build started 18/02/2016 02:14:37.
+     1>Project "C:\Users\HUGH\Documents\Visual Studio 2013\Projects\vhsme\vhsme\vhsme.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Ox /Ob2 /Oi /Ot /Oy /GT /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /Qpar /arch:SSE2 /fp:fast /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt vhsme.cpp
+         vhsme.cpp
+     1>c:\users\hugh\documents\visual studio 2013\projects\vhsme\vhsme\stb_image.h(559): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\hugh\documents\visual studio 2013\projects\vhsme\vhsme\stb_image.h(621): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\hugh\documents\visual studio 2013\projects\vhsme\vhsme\stb_image.h(659): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\hugh\documents\visual studio 2013\projects\vhsme\vhsme\stb_image.h(4552): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>vhsme.cpp(99): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>vhsme.cpp(100): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>vhsme.cpp(101): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>vhsme.cpp(103): warning C4244: '=' : conversion from 'float' to 'unsigned char', possible loss of data
+     1>vhsme.cpp(104): warning C4244: '=' : conversion from 'float' to 'unsigned char', possible loss of data
+     1>vhsme.cpp(105): warning C4244: '=' : conversion from 'float' to 'unsigned char', possible loss of data
+     1>vhsme.cpp(120): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>vhsme.cpp(121): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>vhsme.cpp(122): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>vhsme.cpp(124): warning C4244: '=' : conversion from 'float' to 'unsigned char', possible loss of data
+     1>vhsme.cpp(125): warning C4244: '=' : conversion from 'float' to 'unsigned char', possible loss of data
+     1>vhsme.cpp(126): warning C4244: '=' : conversion from 'float' to 'unsigned char', possible loss of data
+     1>vhsme.cpp(185): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>vhsme.cpp(195): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>vhsme.cpp(232): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>vhsme.cpp(239): warning C4244: '*=' : conversion from 'double' to 'unsigned char', possible loss of data
+     1>vhsme.cpp(240): warning C4244: '*=' : conversion from 'double' to 'unsigned char', possible loss of data
+     1>vhsme.cpp(241): warning C4244: '*=' : conversion from 'double' to 'unsigned char', possible loss of data
+     1>vhsme.cpp(265): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>vhsme.cpp(279): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>vhsme.cpp(285): warning C4244: '=' : conversion from 'float' to 'unsigned char', possible loss of data
+     1>vhsme.cpp(286): warning C4244: '=' : conversion from 'float' to 'unsigned char', possible loss of data
+     1>vhsme.cpp(287): warning C4244: '=' : conversion from 'float' to 'unsigned char', possible loss of data
+     1>vhsme.cpp(299): warning C4244: '=' : conversion from 'float' to 'unsigned char', possible loss of data
+     1>vhsme.cpp(300): warning C4244: '=' : conversion from 'float' to 'unsigned char', possible loss of data
+     1>vhsme.cpp(301): warning C4244: '=' : conversion from 'float' to 'unsigned char', possible loss of data
+     1>vhsme.cpp(311): warning C4244: '*=' : conversion from 'double' to 'int', possible loss of data
+     1>vhsme.cpp(312): warning C4244: '*=' : conversion from 'double' to 'int', possible loss of data
+     1>vhsme.cpp(313): warning C4244: '*=' : conversion from 'double' to 'int', possible loss of data
+     1>vhsme.cpp(318): warning C4244: '*=' : conversion from 'double' to 'int', possible loss of data
+     1>vhsme.cpp(319): warning C4244: '*=' : conversion from 'double' to 'int', possible loss of data
+     1>vhsme.cpp(320): warning C4244: '*=' : conversion from 'double' to 'int', possible loss of data
+     1>vhsme.cpp(348): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>vhsme.cpp(349): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>vhsme.cpp(350): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>vhsme.cpp(378): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>vhsme.cpp(385): warning C4244: 'initializing' : conversion from 'float' to 'unsigned char', possible loss of data
+     1>vhsme.cpp(401): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>vhsme.cpp(469): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>vhsme.cpp(477): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>vhsme.cpp(478): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>vhsme.cpp(479): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>vhsme.cpp(508): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>vhsme.cpp(535): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>vhsme.cpp(658): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>vhsme.cpp(667): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\HUGH\Documents\Visual Studio 2013\Projects\vhsme\Release\vhsme.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\HUGH\Documents\Visual Studio 2013\Projects\vhsme\Release\vhsme.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\HUGH\Documents\Visual Studio 2013\Projects\vhsme\Release\vhsme.lib" /MACHINE:X86 /SAFESEH Release\stdafx.obj
+         Release\vhsme.obj
+         Generating code
+         Finished generating code
+         vhsme.vcxproj -> C:\Users\HUGH\Documents\Visual Studio 2013\Projects\vhsme\Release\vhsme.exe
+     1>Done Building Project "C:\Users\HUGH\Documents\Visual Studio 2013\Projects\vhsme\vhsme\vhsme.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.99
